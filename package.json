@@ -1,0 +1,21 @@
+{
+  "name": "AnavatechAPI",
+  "version": "1.0.0",
+  "description": "Immatriculation controle APIs",
+  "main": "index.js",
+  "repository": "https://github.com/hassan1112/anavatechAPI.git",
+  "author": "hassan1112 <mahamat8hassan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.0.1",
+    "sequelize-cli": "^6.6.0"
+  }
+}
